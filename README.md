@@ -1,0 +1,9 @@
+- 👋 Olá eu sou Fillipe estudando de Engenharia Elétrica
+- 👀 Interessado em tecnológia ...
+- 🌱 Aprendendo Data Sxience, MAchine Learning e Linguagem WEB ...
+- 📫 andrade.fillipe0@gmail.com ...
+
+<!---
+AndradeFillipe/AndradeFillipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
